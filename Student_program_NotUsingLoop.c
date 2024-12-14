@@ -5,7 +5,7 @@
 struct Student {
     int studentID;
     char name[50];
-    float class[10];
+    char class[10];
 };
 
 int main() {
