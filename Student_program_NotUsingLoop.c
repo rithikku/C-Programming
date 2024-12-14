@@ -39,7 +39,7 @@ int main() {
     scanf("%s", &student3.class);
 
     // Input details for the fourth employee
-    printf("\nInput details for Student 3:\n");
+    printf("\nInput details for Student 4:\n");
     printf("Student ID: ");
     scanf("%d", &student4.studentID);
     printf("Name: ");
@@ -48,7 +48,7 @@ int main() {
     scanf("%s", &student4.class);
 
     // Input details for the fourth employee
-    printf("\nInput details for Student 3:\n");
+    printf("\nInput details for Student 5:\n");
     printf("Student ID: ");
     scanf("%d", &student5.studentID);
     printf("Name: ");
